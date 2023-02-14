@@ -14,5 +14,6 @@ cd pipex
 make
 ./pipex file1 command1 command2 file2
 ```
-Equivalent on bash to:\n
+Equivalent on bash to:
+
 $ command1 < file1 | command2 > file2;
