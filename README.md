@@ -2,7 +2,7 @@
 
 | Project Name | pipex |
 | :-: | :-: |
-| Description | Using multiprocessing to implement Pipe "|" command |
+| Description | Using multiprocessing to implement Pipe '|' command |
 | Technologies | <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white&style=for-the-badge"></a> |
 | External libraries | open(), close(), read(), write(), malloc(), free(), perror(), strerror(), access(), dup(), dup2(), execve(), exit(), fork(), pipe(), unlink(), wait(), waitpid()|
 | Final grade | 100/100 |
