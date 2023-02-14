@@ -16,4 +16,4 @@ make
 ```
 Equivalent on bash to:
 
-$ command1 < file1 | command2 > file2;
+$ < file1 command1 | command2 > file2;
